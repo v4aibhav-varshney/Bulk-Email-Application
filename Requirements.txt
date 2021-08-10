@@ -1,0 +1,7 @@
+fitz
+pandas
+pdfrw
+pylovepdf
+PyMuPDF
+reportlab
+pyAesCrypt
