@@ -1,4 +1,4 @@
-#Bulk Email Application
+# Bulk Email Application
 
 The aim of this application is to send an emails to military personnel, both serving and retired, part of the Military College of Electrical and Mechanical Engineering Secunderabad.
 
